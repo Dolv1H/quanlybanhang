@@ -1,0 +1,4 @@
+Banh 15000 30
+Laptop_huy_bip 10000 1
+Nichon 5000 100
+tet 5e+006 4440
